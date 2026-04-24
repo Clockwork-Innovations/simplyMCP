@@ -180,6 +180,17 @@ npx simplymcp bundle server.ts           # Bundle for production
 
 ---
 
+## Contributing
+
+Found a bug, have a feature request, or want to propose a change? Please open a [GitHub Issue](https://github.com/clockwork-innovations/simply-mcp/issues/new/choose) — the source is not distributed from this repository, so issues are the way to contribute.
+
+When filing an issue, include:
+- **For bugs:** a minimal reproduction, the simply-mcp version, and Node/Bun version
+- **For feature requests:** the use case and what you've tried
+- **For questions:** check [docs/](./docs) and existing issues first
+
+---
+
 ## License
 
 Simply-MCP is free for non-commercial use (research, personal projects, education, evaluation). Commercial use requires a separate license. See [LICENSE](./LICENSE) for details.
